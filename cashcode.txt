@@ -1,0 +1,12 @@
+.content_right ul{
+	list-style:none;
+}
+.content_right ul li{
+	float:left;
+	border: 2px solid gray;
+	margin-right: 14px;
+	border-radius: 8px;
+	background: white;
+	display:block;
+	padding: 10px;
+}
